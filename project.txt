@@ -1,3 +1,2 @@
 This change was made by user1
-rebase commit
 This commit was done by user 2
